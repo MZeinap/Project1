@@ -1,0 +1,26 @@
+.post-card {
+  margin: 86px auto;
+  padding: 10px 43px 24px;
+  background: #ffffff;
+  border: 1px solid #e8e8e8;
+  border-radius: 5px;
+}
+.post-card > h2 {
+  font-size: 24px;
+  line-height: 28px;
+  color: #d23669;
+  margin-bottom: 5px;
+}
+.post-card > span {
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #a5a5a5;
+  margin-bottom: 5px;
+}
+.post-card > p {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #000000;
+}
